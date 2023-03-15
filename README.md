@@ -1,4 +1,4 @@
-# HCARD_Augumentation_2023
+# HCARD_Augmentation_2023
 Welcome to the HCARD Augmentation 2023 repository! This repository contains the source code for an AI-driven motion tracking drawing application created as part of the Human Centered Design of Assistive and Rehabilitation Devices course at Imperial College London.
 
 <!-- ABOUT THE PROJECT -->

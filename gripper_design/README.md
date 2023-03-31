@@ -1,8 +1,5 @@
-# Hardware design 
-This folder contains hardware design for the detection system, achieving air gesture operation and users can draw in space. Future updates see [link](https://github.com/ChengyangZhu/Air-Gesture-Operation-Hand-Augmentation)
-
-## Demonstration Video
-https://user-images.githubusercontent.com/113228076/227746031-5bfbe697-b20e-497f-8b04-9bd313788bb0.MP4
+# Gripper Hardware Design 
+This folder contains hardware design for the gripper, achieving air gesture operation and users can draw in space. Future updates see [repo](https://github.com/ChengyangZhu/Air-Gesture-Operation-Hand-Augmentation)
 
 ## Gripper Design
 The hardware of gripper is illustrated in the following figure, which is consisted of a QR code, TPU grip area and egg shaped body. There are two buttons and one FSR (Force Sensing Resistor) inside the body.

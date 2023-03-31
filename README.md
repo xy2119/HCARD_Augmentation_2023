@@ -6,6 +6,8 @@ Welcome to the HCARD Augmentation 2023 repository! This repository contains the 
 
 The HCARD Augmentation project is aimed at developing a drawing application that uses AI-driven motion tracking to assist users with limited mobility or dexterity in creating art. The application will track the user's movements and translate them into a digital medium, allowing them to create beautiful works of art without having to hold or manipulate traditional drawing tools.
 
+![demo](./img/HCARD_demo.mp4)
+
 ![image](./img/UI_preview.PNG)
 
 ## Prerequisites
@@ -51,7 +53,7 @@ To get started with the HCARD Augmentation project, follow these steps:
 
 Clone the repository to your local machine.
 Install the necessary dependencies by running pip install -r requirements.txt.
-Run the application by executing python app.py in your terminal.
+Run the application by executing python file in your terminal.
 
 ## Future Work
 

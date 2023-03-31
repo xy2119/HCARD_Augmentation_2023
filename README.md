@@ -75,9 +75,11 @@ The project is structured as follows:
 ## 🎯 Getting Started
 To get started with the HCARD Augmentation project, follow these steps:
 
-Clone the repository to your local machine.
-Install the necessary dependencies by running pip install -r requirements.txt.
-Run the application by executing the python file in your terminal.
+- Clone the repository to your local machine.
+
+- Install the necessary dependencies by running pip install <module-name>.
+
+- Run the application by executing the python files in your terminal.
 
 ## Future Work
 
